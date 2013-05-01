@@ -1,4 +1,4 @@
-=== Tcl/Tk bindings from Go.
+# Tcl/Tk bindings from Go.
 Bindings are modelled after Inferno Tk model.
 
 Todo:
@@ -7,3 +7,5 @@ Todo:
 - Licensing - GPLv3
 - Concurrency and Channels (for simplicity the whole interpreter on one goroutine.)
 - Widgets? Nah. Everything can be done with Cmd.
+- Examples (6 pcs)
+- Testing
