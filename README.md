@@ -9,3 +9,4 @@ Todo:
 - Widgets? Nah. Everything can be done with Cmd.
 - Examples (6 pcs)
 - Testing
+- Howto
